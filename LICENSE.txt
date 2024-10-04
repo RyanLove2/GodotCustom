@@ -1,20 +1,17 @@
-Copyright (c) 2014-present Godot Engine contributors (see AUTHORS.md).
-Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur.
+Copyright (c) 2024-present Fire Engine contributors (see AUTHORS.md).
+Copyright (c) 2024-Beyond Ryan H Love.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+  
+Ownerships License
+                                         
+   Upon purchase of the software and only upon purchase of the software, you have the right to modify,the code for modding purposes, exclusive use to the game engine and tools as long as the tools themselves permit such use; for example, if the game was made with an open-source/permissible license game engine or framework such as Godot(open source) or Allegro5(permissible) then upon purchase you given access to the source code and the version of the framework or engine used to make modification to your copy of the software as you wish. The user has the right to own the executable that they purchased for modification purpose and you are allow to make backups of your purchased software that you own. However, all sprites, music and sound affects  may have their own license so you must respect those terms if you use those Assets.  Assets that,  I have made specifically for the game, I grant you rights  to use the music and sprites for modding purposes but you do not have the rights to use any of the sprites and artworks that is  trade mark for this game to make money, all Sprites  and music unless specified otherwise is owned by the creator of this software . If you make a new work from the code, you cannot included the sprites , music or sound affects unless you get permission from either the creator of this game or the copy write holders of those assets you want to use for your game. Upon purchasing of the extended license you  are given the right  to create your own game and sell it on steam or other platforms as long as you replace all trademark sprites, and music, you must purchase a license that permits you to do so;however, no matter which license you purchase, you are free to stream your mods on platforms like YouTube as long as you declare at the beginning of the video that this game is a mod and does not reflect that original authors intent or the original story. Last but not least, you are not allowed to feed these sprites into the AI , if you did not create the artwork otherwise you are free to do as you wish.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Rules – For Modding
+    1. Users are free to us mods as long as they own the original Software  .
+    2. Mods are not allowed to be forked in Programs like Github or Git.
+    3. Upon purchase of the original software, users are allowed to create or use anybody mod on steam or other platforms like Itch.io, but only if they own the original game.
+The software is considered a mod if the user modify how the game works, but still uses all the original Assets that were in the game originally or adds work to the original work. The user upon purchasing an extend license can create a new work based on the purchased product upon purchase of the extended. License.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+
+Rules- Extended Licenses 
+Extended License can be purchased  from the app store such as Steam or Itch.io, ect.  The Extended Licenses allows the users to make a derivative work of the original. Upon Purchase, the user must not included any art or music from the original Software, but anything you create is yours to do as you wish. If the user is to open-source the code, they are only allowed to released their modification of the code as open-source. You are permitted can put your extended work on Git or Github for you benefit as long as you make it private between you and your team. If your client wants to get the code that you have not written, you must direct them to the original creator of the software. Otherwise your client can get all the code you written.  You are free to release your derivative work as an binary file, but attempt of reverse engineer to break the terms of service is not permitted for you or the client.

@@ -1,0 +1,17 @@
+file /home/ryan/Desktop/GameProgramming/FireEngine/SConstruct,line 773:
+	Configure(confdir = .sconf_temp)
+scons: Configure: Checking for C header file mntent.h... 
+scons: Configure: ".sconf_temp/conftest_d219010de4b5c77e0f8140a106ee1428_0.c" is up to date.
+scons: Configure: The original builder output was:
+  |.sconf_temp/conftest_d219010de4b5c77e0f8140a106ee1428_0.c <-
+  |  |
+  |  |#include "mntent.h"
+  |  |
+  |  |
+  |
+scons: Configure: ".sconf_temp/conftest_d219010de4b5c77e0f8140a106ee1428_0_e5de4ef45c1659d4280e20688061a58e.x11.tools.64.o" is up to date.
+scons: Configure: The original builder output was:
+  |[94mCompiling [95m==> [93m.sconf_temp/conftest_d219010de4b5c77e0f8140a106ee1428_0.c[0m
+  |
+scons: Configure: (cached) yes
+
